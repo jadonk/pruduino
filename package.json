@@ -2,14 +2,14 @@
   "author": "Jason Kridner <jkridner@gmail.com>",
   "contributors": [
     { "name": "Matt Ranostay" },
-    { "name": "Pantelis Antoniou" }
+    { "name": "Pantelis Antoniou" },
     { "name": "Cam Pedersen", "email": "diffference@gmail.com" },
     { "name": "Rick Waldron", "email": "waldron.rick@gmail.com" },
     { "name": "Leonhardt Wille", "email": "wille@riverlabs.de" },
     { "name": "Seiya Konno", "email": "nulltask@gmail.com" },
     { "name": "Nathan Vander Wilt", "email": "nate@calftrail.com" },
     { "name": "Adam Brault (&yet)", "email": "contact@andyet.com" },
-    { "name": "Emanuele Tessore", "email": "setola@gmail.com" },
+    { "name": "Emanuele Tessore", "email": "setola@gmail.com" }
   ],
   "name": "pruduino",
   "description": "PRU framework",
@@ -28,6 +28,7 @@
     "node": "*"
   },
   "dependencies": {
+     "colors": "~0.6.2"
   },
   "devDependencies": {}
 }
